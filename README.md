@@ -3,7 +3,7 @@
 #### To run the game,
 
 0. (Optional) Create a virtual environment
-1. Install the required modules with ```pip install -r /path/to/requirements.txt```
+1. Install the required modules with ```pip install -r requirements.txt``` while in the root directory of the project.
 2. Run the game.py file
 3. That's it.
 
